@@ -1,6 +1,6 @@
-token= NTI3OTYzMjE4MTg2OTkzNjY1.DwbX6A._sVJSnNutrvMa4URJOLTXu9YTyg
-owner= 524895523371614208
-prefix= m
-game= Mplay
+token= NTQxNjc2MzIwNTIyODk1MzYw.Dzi9IQ.B8rzLhFmTE1W9zVHEZ4jTH_LHkA
+owner= 323160008411971585
+prefix= p
+game= Complaciendo el sonido de la música para ahogar al mundo.
 stayinchannel=true 
 songinstatus=false 
